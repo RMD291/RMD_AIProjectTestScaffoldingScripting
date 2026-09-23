@@ -4,7 +4,6 @@
 As the free version is being used, it automatically decides which model to use
 
 ---
-
 ## Hash checker
 - Went well, which includes expected issue in assuming that the hash can match any or even all types of algorithm (if algorithms are different, the hash will be different between them)
 - 6.5/10, the .5 is due to the (expected) incorrectly assumed behaviour
@@ -92,6 +91,11 @@ Separate content and text of templates from the code itself to improve scalabili
 Add template graphical interface code
 ```
 
+- Didn't do anything
+```
+Create a repository in github using the AI folder
+```
+
 #### Additional behaviour plus update to C++ version
 ```
 Add support for a MVC project structure
@@ -108,8 +112,17 @@ It suggested
 > (...)
 > If you want, I can next tighten the native template catalog further by adding shared template metadata or a small README for the template folder itself.
 
-- Additionally, assuming that as the program is a single file and it had not been specified, it did not have a makefile
+- Additionally it did not have a makefile, assuming that is due to the program being a single file and it not being specified
 ```
 Do that
 Create a make file for the NativeScaffolding, use wsl to test if needed
+```
+
+- Performed with acceptable results 
+```
+Review and verify if issues remain
+Suggest code optimization
+```
+```
+Perform optimization suggestions
 ```
