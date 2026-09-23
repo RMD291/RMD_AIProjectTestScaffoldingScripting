@@ -1,0 +1,1 @@
+Store non-secret configuration templates here; keep secrets outside version control.
